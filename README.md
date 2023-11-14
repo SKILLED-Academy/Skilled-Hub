@@ -27,7 +27,7 @@
 
 ### Which programs are we developing?
 
-* ![3D Blender Program](https://skilledhub.xyz/products/3d-blender-program)
+* [3D Blender Program](https://skilledhub.xyz/products/3d-blender-program)
 * ![Unreal Engine Program](https://skilledhub.xyz/products/unreal-engine-program)
 * ![Machine Learning Program](https://skilledhub.xyz/products/machine-learning-program)
 * ![Fullstack Program](https://skilledhub.xyz/products/fullstack-program)
