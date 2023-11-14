@@ -4,16 +4,16 @@
   <p align="center">Skilled Hub is an organization that was created to help people develop technical skills and industry-specific knowledge in the technology field and to offer them job opportunities. It operates in education and job placement sectors.<p>
    <p align="center">
     <a href="https://skilledhub.xyz/">
-    	<img src="https://img.shields.io/badge/website-practices?style=flat&color=1470f9&link=https%3A%2F%2Fskilledhub.xyz%2F" alt="website" />
+    	<img src="https://img.shields.io/badge/website-practices?style=flat&color=1470f9&link=https%3A%2F%2Fskilledhub.xyz%2F" alt="Website" />
     </a>
-    <a href="https://roadmap.sh/best-practices">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
+    <a href="https://www.linkedin.com/company/weareskilledhub/">
+    	<img src="https://img.shields.io/badge/linkedin-practices?style=flat&color=1470f9&link=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fweareskilledhub%2F" alt="LinkedIn" />
     </a>
-    <a href="https://roadmap.sh/questions">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+    <a href="https://www.instagram.com/weareskilledhub/">
+    	<img src="https://img.shields.io/badge/instagram-practices?style=flat&color=1470f9&link=https%3A%2F%2Fwww.instagram.com%2Fweareskilledhub%2F" alt="Instagram" />
     </a>
-    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    <a href="https://www.youtube.com/@weareskilledhub">
+    	<img src="https://img.shields.io/badge/youtube-practices?style=flat&color=1470f9&link=https%3A%2F%2Fwww.youtube.com%2F%40weareskilledhub" alt="YouTube" />
     </a>
   </p>
 </p>
