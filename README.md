@@ -22,14 +22,14 @@
 </p>
 
 ## ✍🏻 Table Of Content
-• [Vision & Mision](https://github.com/SKILLED-Academy/Skilled-Hub#vision--mission)
-• [Meet The Team!](https://github.com/SKILLED-Academy/Skilled-Hub#%EF%B8%8F-meet-the-team)
-• [About Us](https://github.com/SKILLED-Academy/Skilled-Hub#about-us)
-• [Which programs are we developing?](https://github.com/SKILLED-Academy/Skilled-Hub#which-programs-are-we-developing)
-• [Future Training Goals](https://github.com/SKILLED-Academy/Skilled-Hub#future-training-goals)
-• [Meet Our Students!](https://github.com/SKILLED-Academy/Skilled-Hub#meet-our-student-mehmet-ali-cantez)
-• [Join our Discord Server!](https://github.com/SKILLED-Academy/Skilled-Hub#join-our-discord-server)
-• [Code of Conduct](https://github.com/SKILLED-Academy/Skilled-Hub#code-of-conduct)
+1. [Vision & Mision](https://github.com/SKILLED-Academy/Skilled-Hub#vision--mission)
+2. [Meet The Team!](https://github.com/SKILLED-Academy/Skilled-Hub#%EF%B8%8F-meet-the-team)
+3. [About Us](https://github.com/SKILLED-Academy/Skilled-Hub#about-us)
+4. [Which programs are we developing?](https://github.com/SKILLED-Academy/Skilled-Hub#which-programs-are-we-developing)
+5. [Future Training Goals](https://github.com/SKILLED-Academy/Skilled-Hub#future-training-goals)
+6. [Meet Our Students!](https://github.com/SKILLED-Academy/Skilled-Hub#meet-our-student-mehmet-ali-cantez)
+7. [Join our Discord Server!](https://github.com/SKILLED-Academy/Skilled-Hub#join-our-discord-server)
+8. [Code of Conduct](https://github.com/SKILLED-Academy/Skilled-Hub#code-of-conduct)
 
 <br>
 
