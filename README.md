@@ -23,10 +23,13 @@
 
 ## ✍🏻 Table Of Content
 • [Vision & Mision](https://github.com/SKILLED-Academy/Skilled-Hub#vision--mission)
-• [Which programs are we developing?](https://github.com/SKILLED-Academy/Skilled-Hub#which-programs-are-we-developing)
-• [About Us](https://github.com/SKILLED-Academy/Skilled-Hub#about-us)
-• [Meet Our Students!](https://github.com/SKILLED-Academy/Skilled-Hub#meet-our-student-mehmet-ali-cantez)
 • [Meet The Team!](https://github.com/SKILLED-Academy/Skilled-Hub#%EF%B8%8F-meet-the-team)
+• [About Us](https://github.com/SKILLED-Academy/Skilled-Hub#about-us)
+• [Which programs are we developing?](https://github.com/SKILLED-Academy/Skilled-Hub#which-programs-are-we-developing)
+• [Future Training Goals](https://github.com/SKILLED-Academy/Skilled-Hub#future-training-goals)
+• [Meet Our Students!](https://github.com/SKILLED-Academy/Skilled-Hub#meet-our-student-mehmet-ali-cantez)
+• [Join our Discord Server!](https://github.com/SKILLED-Academy/Skilled-Hub#join-our-discord-server)
+• [Code of Conduct](https://github.com/SKILLED-Academy/Skilled-Hub#code-of-conduct)
 
 <br>
 
@@ -165,11 +168,11 @@ Oğuzhan Bilgin - Operations Manager | Serkan Alıç - Academy Operations | Ciha
 
 Mehmet Ali Cantez          |  Unreal Engine Program
 :-------------------------:|:-------------------------:
-<video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/blob/main/skilled-hub-video.mp4" width="360"></video>  |  <video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/b2671549-74ef-4692-878a-4cf9be16db8d" width="360"></video>
+<video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/bfecf9e8-cc5e-4731-ae9d-ca97adc75e08" width="360"></video>  |  <video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/5b8794f9-ed5e-4a07-9776-2990dc0e0d89" width="360"></video>
 
 ## Join our Discord Server!
 
-![image](https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/056f381f-5c1a-4214-adeb-1bad530db844)
+![image](https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/83248f3f-59db-471d-8696-86c63e53f861)
 
 ## Code of Conduct
 
