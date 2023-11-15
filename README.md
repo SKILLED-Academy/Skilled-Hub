@@ -52,8 +52,15 @@
 
 ### ⭐️ Meet the Team!
 
-#### Founder Team
+#### Our Founder Team
 
 Erdal Sarı - CEO | Serap Köprülü - CBDO | Murat Kahraman - Co-Founder
 :------------:|:-------------:|:-------------:
 <img src="https://media.licdn.com/dms/image/D4D03AQGOaoVlRsLGKQ/profile-displayphoto-shrink_800_800/0/1698400975606?e=2147483647&v=beta&t=pcSIBqMCN0JU4lbDHU4nyR_CnVX4M2Y9X_SdDG0R0iA" height="120" width="120" > | <img src="https://globalhrsummit.org/assets/img/trainers/2023/SERAP-K%C3%96PR%C3%9CL%C3%9C-Y.jpg" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4E03AQEglFfJToQUnQ/profile-displayphoto-shrink_800_800/0/1646561616509?e=2147483647&v=beta&t=58X0NZBXWjXYrZS9wsKYm43qBqPIPmYWwpchBbRfE68" height="120" width="120" >
+
+#### Our Investors and Consultants
+
+Mehmet M. İsen, | Murat Tayhan | Mustafa K. Sözkesen 
+:------------:|:-------------:|:-------------:
+<img src="https://www.baichukuk.com/dosyalar/2023/09/AV.-MEHMET-MURAT-ISEN-500x500.jpg" height="120" width="120" > | <img src="https://pbs.twimg.com/profile_images/1686488981926707205/Ql1Yq-JT_400x400.jpg" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4D03AQGP_ysoaSIHNQ/profile-displayphoto-shrink_800_800/0/1580845807391?e=2147483647&v=beta&t=N5JfLOFyLfs0UnaEbmCKpUESPCkqNaVd3j4ikarIvQY" height="120" width="120" >
+
