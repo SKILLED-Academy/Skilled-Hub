@@ -21,7 +21,7 @@
 </p>
 </p>
 
-## Table Of Content
+## ✍🏻 Table Of Content
 • [Vision & Mision](https://github.com/SKILLED-Academy/Skilled-Hub#vision--mission)
 • [Which programs are we developing?](https://github.com/SKILLED-Academy/Skilled-Hub#which-programs-are-we-developing)
 • [About Us](https://github.com/SKILLED-Academy/Skilled-Hub#about-us)
@@ -66,12 +66,12 @@ Oğuzhan Bilgin - Operations Manager | Serkan Alıç - Academy Operations | Ciha
 
 ---
 
-### About Us: Go to Website!
+### ❤️️ About Us: Go to Website!
 <a href="https://skilledhub.xyz/pages/hakkimizda"><img src="https://github.com/SKILLED-Academy/.github/blob/main/profile/banner_Github_2.png"></img></a>
 
 ---
 
-## Which programs are we developing?
+## 📝 Which programs are we developing?
 
 ### For Adults
 * [3D Blender Program](https://skilledhub.xyz/products/3d-blender-program)
@@ -89,7 +89,7 @@ Oğuzhan Bilgin - Operations Manager | Serkan Alıç - Academy Operations | Ciha
 * [Scratch 3.0 Program](https://skilledhub.xyz/products/scratch-3-0-kodlama-dunyasina-yolculuk)
 * [Python Program](https://skilledhub.xyz/products/python-start)
 
-### Meet Our Student: Mehmet Ali Cantez
+### 🥇 Meet Our Student: Mehmet Ali Cantez
 
 [Mehmet Ali Cantez](https://www.linkedin.com/in/malicantez/) has joined the ranks of Funverse Games as a Junior 3D Artist, showcasing the impact of his Unity training at Skilled Hub. His journey is a testament to the effectiveness of the education he received in the technology and education sector. 🔥
 
