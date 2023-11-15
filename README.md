@@ -165,7 +165,7 @@ Oğuzhan Bilgin - Operations Manager | Serkan Alıç - Academy Operations | Ciha
 
 Mehmet Ali Cantez          |  Unreal Engine Program
 :-------------------------:|:-------------------------:
-<video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/2bd1334b-997e-443f-bc4f-54a4fdd58094" width="360"></video>  |  <video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/b2671549-74ef-4692-878a-4cf9be16db8d" width="360"></video>
+<video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/blob/main/skilled-hub-video.mp4" width="360"></video>  |  <video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/b2671549-74ef-4692-878a-4cf9be16db8d" width="360"></video>
 
 ## Join our Discord Server!
 
