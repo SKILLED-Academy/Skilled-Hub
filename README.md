@@ -21,11 +21,16 @@
 </p>
 </p>
 
-<br>
+## Table Of Content
+• [Vision & Mision](https://github.com/SKILLED-Academy/Skilled-Hub#vision--mission)
+• [Which programs are we developing?](https://github.com/SKILLED-Academy/Skilled-Hub#which-programs-are-we-developing)
+• [About Us](https://github.com/SKILLED-Academy/Skilled-Hub#about-us)
+• [Meet Our Students!](https://github.com/SKILLED-Academy/Skilled-Hub#meet-our-student-mehmet-ali-cantez)
+• [Meet The Team!](https://github.com/SKILLED-Academy/Skilled-Hub#%EF%B8%8F-meet-the-team)
 
 ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287)
 
-## Vision & Mission
+## ⭐️ Vision & Mission
 
 ### Vision: Shaping the Future
 
@@ -34,6 +39,33 @@ The core vision of Skilled Hub is to support individuals aspiring to build caree
 ### Mission: Bridging Technology with Education
 
 Skilled Hub believes in the power of merging technology with education. Therefore, we endeavor to provide the best education to our students by incorporating the latest technology trends and tools. Technology is not merely a tool but also an opportunity. Leveraging these opportunities, Skilled Hub shapes the future technology leaders.
+
+---
+
+## ⭐️ Meet the Team!
+
+### Our Founder Team
+
+Erdal Sarı - CEO | Serap Köprülü - CBDO | Murat Kahraman - Co-Founder
+:------------:|:-------------:|:-------------:
+<img src="https://media.licdn.com/dms/image/D4D03AQGOaoVlRsLGKQ/profile-displayphoto-shrink_800_800/0/1698400975606?e=2147483647&v=beta&t=pcSIBqMCN0JU4lbDHU4nyR_CnVX4M2Y9X_SdDG0R0iA" height="120" width="120" > | <img src="https://globalhrsummit.org/assets/img/trainers/2023/SERAP-K%C3%96PR%C3%9CL%C3%9C-Y.jpg" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4E03AQEglFfJToQUnQ/profile-displayphoto-shrink_800_800/0/1646561616509?e=2147483647&v=beta&t=58X0NZBXWjXYrZS9wsKYm43qBqPIPmYWwpchBbRfE68" height="120" width="120" >
+
+### Our Investors and Consultants
+
+Mehmet M. İsen | Murat Tayhan | Mustafa K. Sözkesen 
+:------------:|:-------------:|:-------------:
+<img src="https://www.baichukuk.com/dosyalar/2023/09/AV.-MEHMET-MURAT-ISEN-500x500.jpg" height="120" width="120" > | <img src="https://pbs.twimg.com/profile_images/1686488981926707205/Ql1Yq-JT_400x400.jpg" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4D03AQGP_ysoaSIHNQ/profile-displayphoto-shrink_800_800/0/1580845807391?e=2147483647&v=beta&t=N5JfLOFyLfs0UnaEbmCKpUESPCkqNaVd3j4ikarIvQY" height="120" width="120" >
+
+### Our Team
+
+Oğuzhan Bilgin - Operations Manager | Serkan Alıç - Academy Operations | Cihan Türker - Product Manager | Merve Besen - Project Manager
+:------------:|:-------------:|:-------------:|:-------------:
+<img src="https://media.licdn.com/dms/image/D4D03AQF2x-bUf7NAYQ/profile-displayphoto-shrink_400_400/0/1697884265886?e=1705536000&v=beta&t=hEUecucIv8PNxQ71A5VCc6UdENM-y3T78Dca0L2c25w" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4D03AQGaHs770LK6_A/profile-displayphoto-shrink_200_200/0/1660481463469?e=1701907200&v=beta&t=zxyxSLwyjwI6MJzcwC3XoxxYtSPclSch8-nYl-61dBU" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/D4D03AQH9ArBHdB1udg/profile-displayphoto-shrink_400_400/0/1694071275387?e=1701907200&v=beta&t=2U9-hgScMolHStZa5FnOERGZyr34w33Czjs_pY1kCMU" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/D5603AQGDA6lSGwMpkg/profile-displayphoto-shrink_200_200/0/1695682822218?e=2147483647&v=beta&t=eLiYogWZChl5ZvrNBz8VuyCeYDxkMsR37KCdrKxv3Js" height="120" width="120" >
+
+---
+
+### About Us: Go to Website!
+<a href="https://skilledhub.xyz/pages/hakkimizda"><img src="https://github.com/SKILLED-Academy/.github/blob/main/profile/banner_Github_2.png"></img></a>
 
 ---
 
@@ -55,13 +87,6 @@ Skilled Hub believes in the power of merging technology with education. Therefor
 * [Scratch 3.0 Program](https://skilledhub.xyz/products/scratch-3-0-kodlama-dunyasina-yolculuk)
 * [Python Program](https://skilledhub.xyz/products/python-start)
 
----
-
-### About Us
-<a href="https://skilledhub.xyz/pages/hakkimizda"><img src="https://github.com/SKILLED-Academy/.github/blob/main/profile/banner_Github_2.png"></img></a>
-
----
-
 ### Meet Our Student: Mehmet Ali Cantez
 
 [Mehmet Ali Cantez](https://www.linkedin.com/in/malicantez/) has joined the ranks of Funverse Games as a Junior 3D Artist, showcasing the impact of his Unity training at Skilled Hub. His journey is a testament to the effectiveness of the education he received in the technology and education sector. 🔥
@@ -71,27 +96,3 @@ Mehmet Ali Cantez          |  Unreal Engine Program
 <video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/2bd1334b-997e-443f-bc4f-54a4fdd58094" width="360"></video>  |  <video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/b2671549-74ef-4692-878a-4cf9be16db8d" width="360"></video>
 
 ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287) ![](https://img.shields.io/badge/-pathlong?color=4ff287)
-
-## ⭐️ Meet the Team!
-
-### Our Founder Team
-
-Erdal Sarı - CEO | Serap Köprülü - CBDO | Murat Kahraman - Co-Founder
-:------------:|:-------------:|:-------------:
-<img src="https://media.licdn.com/dms/image/D4D03AQGOaoVlRsLGKQ/profile-displayphoto-shrink_800_800/0/1698400975606?e=2147483647&v=beta&t=pcSIBqMCN0JU4lbDHU4nyR_CnVX4M2Y9X_SdDG0R0iA" height="120" width="120" > | <img src="https://globalhrsummit.org/assets/img/trainers/2023/SERAP-K%C3%96PR%C3%9CL%C3%9C-Y.jpg" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4E03AQEglFfJToQUnQ/profile-displayphoto-shrink_800_800/0/1646561616509?e=2147483647&v=beta&t=58X0NZBXWjXYrZS9wsKYm43qBqPIPmYWwpchBbRfE68" height="120" width="120" >
-
----
-
-### Our Investors and Consultants
-
-Mehmet M. İsen | Murat Tayhan | Mustafa K. Sözkesen 
-:------------:|:-------------:|:-------------:
-<img src="https://www.baichukuk.com/dosyalar/2023/09/AV.-MEHMET-MURAT-ISEN-500x500.jpg" height="120" width="120" > | <img src="https://pbs.twimg.com/profile_images/1686488981926707205/Ql1Yq-JT_400x400.jpg" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4D03AQGP_ysoaSIHNQ/profile-displayphoto-shrink_800_800/0/1580845807391?e=2147483647&v=beta&t=N5JfLOFyLfs0UnaEbmCKpUESPCkqNaVd3j4ikarIvQY" height="120" width="120" >
-
----
-
-### Our Team
-
-Oğuzhan Bilgin - Operations Manager | Serkan Alıç - Academy Operations | Cihan Türker - Product Manager | Merve Besen - Project Manager
-:------------:|:-------------:|:-------------:|:-------------:
-<img src="https://media.licdn.com/dms/image/D4D03AQF2x-bUf7NAYQ/profile-displayphoto-shrink_400_400/0/1697884265886?e=1705536000&v=beta&t=hEUecucIv8PNxQ71A5VCc6UdENM-y3T78Dca0L2c25w" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4D03AQGaHs770LK6_A/profile-displayphoto-shrink_200_200/0/1660481463469?e=1701907200&v=beta&t=zxyxSLwyjwI6MJzcwC3XoxxYtSPclSch8-nYl-61dBU" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/D4D03AQH9ArBHdB1udg/profile-displayphoto-shrink_400_400/0/1694071275387?e=1701907200&v=beta&t=2U9-hgScMolHStZa5FnOERGZyr34w33Czjs_pY1kCMU" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/D5603AQGDA6lSGwMpkg/profile-displayphoto-shrink_200_200/0/1695682822218?e=2147483647&v=beta&t=eLiYogWZChl5ZvrNBz8VuyCeYDxkMsR37KCdrKxv3Js" height="120" width="120" >
