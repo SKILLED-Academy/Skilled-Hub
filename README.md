@@ -54,6 +54,6 @@
 
 #### Founder Team
 
-Erdal Sarı - CEO & Co Founder | Serap Köprülü - CBDO & Co Founder | Murat Kahraman - Co Founder
+Erdal Sarı - CEO | Serap Köprülü - CBDO | Murat Kahraman - Co-Founder
 :------------:|:-------------:|:-------------:
 <img src="https://media.licdn.com/dms/image/D4D03AQGOaoVlRsLGKQ/profile-displayphoto-shrink_800_800/0/1698400975606?e=2147483647&v=beta&t=pcSIBqMCN0JU4lbDHU4nyR_CnVX4M2Y9X_SdDG0R0iA" height="120" width="120" > | <img src="https://globalhrsummit.org/assets/img/trainers/2023/SERAP-K%C3%96PR%C3%9CL%C3%9C-Y.jpg" height="120" width="120" > | <img src="https://media.licdn.com/dms/image/C4E03AQEglFfJToQUnQ/profile-displayphoto-shrink_800_800/0/1646561616509?e=2147483647&v=beta&t=58X0NZBXWjXYrZS9wsKYm43qBqPIPmYWwpchBbRfE68" height="120" width="120" >
