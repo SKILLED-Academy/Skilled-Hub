@@ -60,9 +60,9 @@ Skilled Hub believes in the power of merging technology with education. Therefor
 
 [Mehmet Ali Cantez](https://www.linkedin.com/in/malicantez/) has joined the ranks of Funverse Games as a Junior 3D Artist, showcasing the impact of his Unity training at Skilled Hub. His journey is a testament to the effectiveness of the education he received in the technology and education sector. 🔥
 
-<p align="center">
-<video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/776937e7-f8d9-486d-83a3-e28c284f3e40"></video>
-</p>
+<div align="center">
+<video autoplay loop src="https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/776937e7-f8d9-486d-83a3-e28c284f3e40" width="360"></video>
+</div>
 
 <br>
 
