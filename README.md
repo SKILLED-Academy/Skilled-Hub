@@ -138,6 +138,7 @@ Oğuzhan Bilgin - Operations Manager | Serkan Alıç - Academy Operations | Ciha
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -172,7 +173,7 @@ Mehmet Ali Cantez          |  Unreal Engine Program
 
 ## Join our Discord Server!
 
-![image](https://github.com/SKILLED-Academy/Skilled-Hub/assets/77210864/83248f3f-59db-471d-8696-86c63e53f861)
+<iframe src="https://discord.com/widget?id=1114077823968227433&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## Code of Conduct
 
